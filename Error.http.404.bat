@@ -1,0 +1,1 @@
+echo Erreur : Le serveur manque des fichiers. [404]
